@@ -15,4 +15,8 @@ module.exports.Config = function (locations) {
             console.log("Failed to load config at: " + location + " because of: " + error.message);
         }
     });
+
+    _(process.env).each(function(value, key) {
+      this_[key] = value;
+    })
 };

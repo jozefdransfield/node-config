@@ -1,7 +1,7 @@
 {
   "name": "node-config",
   "description": "Tiny Config Object for Node",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://github.com/jozefdransfield/node-config",
   "author": {
     "name": "Jozef Dransfield",
@@ -30,6 +30,7 @@
     "underscore": "1.4.3"
   },
   "devDependencies": {
+    "mocha": "~1.17.1"
   },
   "readmeFilename": "README.md"
 }
