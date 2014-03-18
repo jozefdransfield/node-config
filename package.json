@@ -1,5 +1,5 @@
 {
-  "name": "node-config",
+  "name": "node-tiny-config",
   "description": "Tiny Config Object for Node",
   "version": "0.0.2",
   "homepage": "https://github.com/jozefdransfield/node-config",
